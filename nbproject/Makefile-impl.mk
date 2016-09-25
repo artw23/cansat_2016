@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=cansat_2016.X
+PROJECTNAME=cansat_2016
 
 # Active Configuration
 DEFAULTCONF=default
